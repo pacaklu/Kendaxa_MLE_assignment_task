@@ -213,7 +213,7 @@ def compute(path):
 
     paths.sort(key=len)
 
-    paths = clear_paths(paths)
+    #paths = clear_paths(paths)
 
     paths.sort(key=len)
 
